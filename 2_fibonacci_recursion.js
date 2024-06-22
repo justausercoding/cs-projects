@@ -4,16 +4,14 @@ function fibonacci(n) {
 
 function fibsRec(n) {
     let numArray = [];
-    let counter = 0;
-    while (counter <= n) {
-        numArray.push(fibonacci(counter));
-        counter++;
+    for (let i = 0; i < n; i++) {
+        numArray.push(fibonacci(i));
     }
     return numArray;
 }
 
 // -- Test --
-console.log(fibsRec(0));
-console.log(fibsRec(2));
-console.log(fibsRec(4));
+console.log(fibsRec(1));
+console.log(fibsRec(5));
 console.log(fibsRec(10));
+console.log(fibsRec(20));
