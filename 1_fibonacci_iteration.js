@@ -13,6 +13,7 @@ function fibs(n) {
 }
 
 // -- Test --
+console.log(fibs(1));
 console.log(fibs(5));
 console.log(fibs(10));
 console.log(fibs(20));
