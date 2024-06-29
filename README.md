@@ -3,7 +3,7 @@
 **Course**: The Odin Project - JavaScript Course
 
 
-**Project**: Recursion
+**Project**: Recursion, Linked List
 
 
 **Assignements**:
@@ -11,3 +11,4 @@
   - using iteration
   - using recursion
 - Build a function that takes in an array and returns a sorted array, using a recursive **merge sort methodology**.
+- Create a LinkedList class which represents the full linked list and also a Node class, that contains a value property and a linkt to the next Node.
