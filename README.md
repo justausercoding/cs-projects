@@ -3,7 +3,7 @@
 **Course**: The Odin Project - JavaScript Course
 
 
-**Project**: Recursion, Linked List, Hash Map
+**Project**: Recursion, Linked List, Hash Map, Binary Search Tree
 
 
 
@@ -14,3 +14,4 @@
 - Build a function that takes in an array and returns a sorted array, using a recursive **merge sort methodology**.
 - Create a LinkedList class which represents the full **linked list** and also a Node class, that contains a value property and a link to the next Node.
 - Write an implementation of a **hash map**.
+- Build a **binary search tree**.
