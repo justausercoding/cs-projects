@@ -10,7 +10,6 @@ function knightMoves(start, goal) {
 
 function calculateMoves(start, goal) {
     if (start[0] === goal[0] && start[1] === goal[1]) {
-        console.log("start", start);
         return [start];
     }
 
